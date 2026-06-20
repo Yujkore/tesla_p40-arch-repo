@@ -38,4 +38,4 @@ To use this archive on a clean installation or disaster-recovery environment, ap
 ```ini
 [tesla_p40-repo]
 SigLevel = Optional TrustAll
-Server = [https://github.com/YOUR_USERNAME/tesla_p40-arch-repo/releases/download/v1.0.0](https://github.com/yujkore/tesla_p40-arch-repo/releases/download/v1.0.0)
+Server = [https://github.com/YOUR_USERNAME/tesla_p40-arch-repo/releases/download/v1.0.0](https://github.com/Yujkore/tesla_p40-arch-repo/releases/download/v1.0.0)
