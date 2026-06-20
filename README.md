@@ -36,8 +36,3 @@ The repository archives the following precisely matched components:
 To use this archive on a clean installation or disaster-recovery environment, append the repository definition to the bottom of `/etc/pacman.conf`:
 
 ```
-
-ini
-[tesla_p40-repo]
-SigLevel = Optional TrustAll
-Server = [https://github.com/YOUR_USERNAME/tesla_p40-arch-repo/releases/download/v1.0.0](https://github.com/YOUR_USERNAME/tesla_p40-arch-repo/releases/download/v1.0.0)
